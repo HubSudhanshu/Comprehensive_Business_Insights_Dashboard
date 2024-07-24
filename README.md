@@ -88,6 +88,8 @@ The Store and Customer Insights page provides detailed information on individual
 
 ## visualizations & Screenshots 
 
+C:\Users\admin\Pictures\Saved Pictures
+
 ![Picture1](https://github.com/HubSudhanshu/123/assets/140691182/c5b62d73-b030-4848-a174-c5918067d74f)
 
 ![Capture5](https://github.com/HubSudhanshu/123/assets/140691182/81b7a37c-f845-4c89-8801-42a20a56bead)
