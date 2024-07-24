@@ -7,7 +7,7 @@ The Comprehensive Business Insights Dashboard is an interactive and insightful P
 Live Dashboard Link: [Comprehensive_Business_Insights_Dashboard](https://bit.ly/Comprehensive_Business_Insights_Dashboard)
 
    
-Dataset Link: [Dataset]([https://drive.google.com/drive/folders/1ogNW7dkWI2YaPSymH6dkfQf_alAtIqAh?usp=drive_link](https://drive.google.com/file/d/1ymmNpf4jyo4ahXZY78F7irc9eQj6E_f0/view))
+Dataset Link: [Dataset](https://drive.google.com/drive/folders/1ogNW7dkWI2YaPSymH6dkfQf_alAtIqAh?usp=drive_link](https://drive.google.com/file/d/1ymmNpf4jyo4ahXZY78F7irc9eQj6E_f0/view)
 
 
 
