@@ -35,7 +35,7 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
    - **A card for selecting the Year, State, and Month to filter the data.**
 
      
-**Visualizations:**
+ - **Visualizations:**
 
  **Profit by Month: An area chart showing the profit with respect to months.**
  **Top 5 Selling Products: A bar chart displaying the top 5 selling products.**
