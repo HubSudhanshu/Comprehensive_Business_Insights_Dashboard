@@ -22,7 +22,7 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
 #### 1.1) Page Overview
 
 
-- **Summary Cards:**
+#### 1.1.1)Summary Cards:
 
    - **Total Quantity Sold.**
    - **Total Revenue.**
@@ -35,15 +35,15 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
    - **A card for selecting the Year, State, and Month to filter the data.**
 
      
- - **Visualizations:**
+ #### 1.1.2)Visualizations:
 
- **Profit by Month: An area chart showing the profit with respect to months.**
+   - **Profit by Month: An area chart showing the profit with respect to months.**
  
- **Top 5 Selling Products: A bar chart displaying the top 5 selling products.**
+   - **Top 5 Selling Products: A bar chart displaying the top 5 selling products.**
  
- **Profit by Gender: A donut chart illustrating profit distribution by gender.**
+   - **Profit by Gender: A donut chart illustrating profit distribution by gender.**
  
- **Key Metrics Matrix: A matrix displaying key metrics such as Store Name, Total Revenue, and Total Profit. This matrix is crucial as it allows users to drill through to more detailed data.
+  - **Key Metrics Matrix: A matrix displaying key metrics such as Store Name, Total Revenue, and Total Profit. This matrix is crucial as it allows users to drill through to more detailed data.
                        Store and Customer Insights**
 
 
