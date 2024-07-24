@@ -35,7 +35,7 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
    - **A card for selecting the Year, State, and Month to filter the data.**
 
      
- #### 1.1.2)Visualizations:
+ #### 1.1.2) Visualizations:
 
    - **Profit by Month: An area chart showing the profit with respect to months.**
  
@@ -47,10 +47,12 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
                        Store and Customer Insights**
 
 
+
+
 ### 2. Store and Customer Insights          
 The Store and Customer Insights page provides detailed information on individual stores and customer behaviors. This page is accessible through the drill-through feature on the Annual Sales Dashboard. It includes:
 
-- **Summary Cards:**
+ #### 1.1.1) Summary Cards:
 
  - **Store Name.**
  - **Quantity Sold.**
@@ -58,15 +60,19 @@ The Store and Customer Insights page provides detailed information on individual
  - **Profit.**
  - **Profit Percentage.**
  - **Total Return.**
+   
 
-   **Visualizations:**
+ #### 1.1.2) **Visualizations:**
    
   - **Customer Order and Financial Summary Matrix: A matrix displaying detailed customer orders and financial summaries, including full name, total orders, revenue, and profit for the top 100 orders.
                                                   Profit Analysis.**
 
   - **Total and Adjusted Profit Line Chart: A line chart showing the total and adjusted profit over time with adjustable filters.**
+    
   - **Profit Filter: A numeric filter allowing users to adjust the profit range, including negative profits for more nuanced analysis.**
+    
   - **Performance Comparison Gauges: Two gauge charts comparing current profit to previous periods, controlled by month and quarter selections.**
+    
   - **Sales and Returns Line Chart: A line chart displaying sales, revenue, profit, and returns, controlled by a field parameter for dynamic data visualization.**
 
 
