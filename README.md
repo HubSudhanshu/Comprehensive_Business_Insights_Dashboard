@@ -79,26 +79,10 @@ The Store and Customer Insights page provides detailed information on individual
   - Sales and Returns Line Chart: A line chart displaying sales, revenue, profit, and returns, controlled by a field parameter for dynamic data visualization.*
 
 
-Drill-Through Feature
-To enhance the interactivity and usability of the dashboard, the drill-through feature allows users to click on a store name in the matrix on the Annual Sales Dashboard and be directed to the Store and Customer Insights page. This feature provides more granular data, helping users dive deeper into specific areas of interest.
-
-How to Use
-Open the Power BI file:
-
-Ensure you have Power BI Desktop installed on your computer.
-Open the provided Power BI (.pbix) file.
-Navigate the Dashboard:
-
-Use the tabs at the bottom of the Power BI interface to switch between the Annual Sales Dashboard and the Store and Customer Insights page.
-Interact with Filters:
-
-Utilize the year, state, and month selectors to filter the data according to your requirements.
-Explore Visualizations:
-
-Examine various charts and matrices to gain insights into sales performance, top products, profit distribution, and customer behavior.
-Use the Drill-Through Feature:
-
-Click on any store name in the matrix on the Annual Sales Dashboard to drill through to the Store and Customer Insights page for detailed information.
+ #### Drill-Through Feature: 
+ 
+- To enhance the interactivity and usability of the dashboard, the drill-through feature allows users to click on a store name in the matrix on the Annual Sales Dashboard and be directed to the Store and Customer Insights page. This feature 
+  provides more granular data, helping users dive deeper into specific areas of interest.
 
 
 
