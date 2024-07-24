@@ -4,7 +4,7 @@ The Comprehensive Business Insights Dashboard is an interactive and insightful P
 
 
 
-Live Dashboard Link: https://bit.ly/Comprehensive_Business_Insights_Dashboard
+Live Dashboard Link: [Comprehensive_Business_Insights_Dashboard]https://bit.ly/Comprehensive_Business_Insights_Dashboard
 
    
 Adventure Works dataset: [Adventure Works Dataset](https://drive.google.com/drive/folders/1ogNW7dkWI2YaPSymH6dkfQf_alAtIqAh?usp=drive_link)
