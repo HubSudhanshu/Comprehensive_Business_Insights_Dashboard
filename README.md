@@ -36,15 +36,16 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
 
      
  #### 1.1.2) Visualizations:
+ 
 
-   - **Profit by Month: An area chart showing the profit with respect to months.**
+   - Profit by Month: An area chart showing the profit with respect to months.
  
-   - **Top 5 Selling Products: A bar chart displaying the top 5 selling products.**
+   - Top 5 Selling Products: A bar chart displaying the top 5 selling products.
  
-   - **Profit by Gender: A donut chart illustrating profit distribution by gender.**
+   - Profit by Gender: A donut chart illustrating profit distribution by gender.
  
-  - **Key Metrics Matrix: A matrix displaying key metrics such as Store Name, Total Revenue, and Total Profit. This matrix is crucial as it allows users to drill through to more detailed data.
-                       Store and Customer Insights**
+  - Key Metrics Matrix: A matrix displaying key metrics such as Store Name, Total Revenue, and Total Profit. This matrix is crucial as it allows users to drill through to more detailed data.
+                       Store and Customer Insights
 
 
 
@@ -52,28 +53,30 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
 ### 2. Store and Customer Insights          
 The Store and Customer Insights page provides detailed information on individual stores and customer behaviors. This page is accessible through the drill-through feature on the Annual Sales Dashboard. It includes:
 
- #### 1.1.1) Summary Cards:
+#### 2.1) Page Overview
 
- - **Store Name.**
- - **Quantity Sold.**
- - **Revenue.**
- - **Profit.**
- - **Profit Percentage.**
- - **Total Return.**
+#### 2.1.1) Summary Cards:
+
+ - Store Name.
+ - Quantity Sold.
+ - Revenue.
+ - Profit.
+ - Profit Percentage.
+ - Total Return.
    
 
- #### 1.1.2) **Visualizations:**
+ #### 2.1.2) **Visualizations:**
    
-  - **Customer Order and Financial Summary Matrix: A matrix displaying detailed customer orders and financial summaries, including full name, total orders, revenue, and profit for the top 100 orders.
-                                                  Profit Analysis.**
+  - Customer Order and Financial Summary Matrix: A matrix displaying detailed customer orders and financial summaries, including full name, total orders, revenue, and profit for the top 100 orders.
+                                                  Profit Analysis.
 
-  - **Total and Adjusted Profit Line Chart: A line chart showing the total and adjusted profit over time with adjustable filters.**
+  - Total and Adjusted Profit Line Chart: A line chart showing the total and adjusted profit over time with adjustable filters.
     
-  - **Profit Filter: A numeric filter allowing users to adjust the profit range, including negative profits for more nuanced analysis.**
+  - Profit Filter: A numeric filter allowing users to adjust the profit range, including negative profits for more nuanced analysis.
     
-  - **Performance Comparison Gauges: Two gauge charts comparing current profit to previous periods, controlled by month and quarter selections.**
+  - Performance Comparison Gauges: Two gauge charts comparing current profit to previous periods, controlled by month and quarter selections.
     
-  - **Sales and Returns Line Chart: A line chart displaying sales, revenue, profit, and returns, controlled by a field parameter for dynamic data visualization.**
+  - Sales and Returns Line Chart: A line chart displaying sales, revenue, profit, and returns, controlled by a field parameter for dynamic data visualization.*
 
 
 Drill-Through Feature
