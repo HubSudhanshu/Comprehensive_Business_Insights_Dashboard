@@ -1,0 +1,2 @@
+Power BI Desktop ==2.131.901.0
+Excel ==16.0
