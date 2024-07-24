@@ -22,15 +22,15 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
 #### 1.1) Page Overview
 
 
-#### 1.1.1)Summary Cards:
+#### 1.1.1) Summary Cards:
 
-   - Total Quantity Sold.
-   - Total Revenue.
-   - Total Profit.
-   - Profit Percentage.
-   - Total Return.
-   - Return Percentage.
-   - Filters and Selectors.
+     - Total Quantity Sold.
+     - Total Revenue.
+     - Total Profit.
+     - Profit Percentage.
+     - Total Return.
+     - Return Percentage.
+     - Filters and Selectors.
 
    - **A card for selecting the Year, State, and Month to filter the data.**
 
