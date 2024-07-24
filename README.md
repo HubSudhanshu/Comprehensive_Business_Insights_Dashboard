@@ -22,7 +22,7 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
 #### 1.1) Page Overview
 
 
-#### 1.1.1) Summary Cards:
+#### Summary Cards:
 
   - Total Quantity Sold.
   - Total Revenue.
@@ -35,7 +35,7 @@ The Annual Sales Dashboard provides a high-level overview of sales data with a f
   - *A card for selecting the Year, State, and Month to filter the data.
 
      
- #### 1.1.2) Visualizations:
+ ####  Visualizations:
  
 
    - Profit by Month: An area chart showing the profit with respect to months.
@@ -55,7 +55,7 @@ The Store and Customer Insights page provides detailed information on individual
 
 #### 2.1) Page Overview
 
-#### 2.1.1) Summary Cards:
+####  Summary Cards:
 
  - Store Name.
  - Quantity Sold.
@@ -65,7 +65,7 @@ The Store and Customer Insights page provides detailed information on individual
  - Total Return.
    
 
- #### 2.1.2) **Visualizations:**
+ ####  Visualizations:
    
   - Customer Order and Financial Summary Matrix: A matrix displaying detailed customer orders and financial summaries, including full name, total orders, revenue, and profit for the top 100 orders.
                                                   Profit Analysis.
